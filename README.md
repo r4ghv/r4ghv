@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Raghav%20Nargotra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<h3>AI Systems • Agentic AI • Backend Engineering</h3>
-
 <p>
   Building with LLMs, automation, AI workflows and scalable systems.
 </p>
@@ -18,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,go,react,svelte,tailwind,html,css,nodejs,sqlite,mysql,docker,git,github,linux,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,,react,tailwind,html,css,nodejs,sqlite,mysql,docker,git,github,linux,vscode,vercel" />
 
 </div>
 
@@ -40,7 +38,7 @@ Self-hosted S3-compatible object storage ecosystem.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghavnargotra098&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=r4ghv&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavnargotra098&theme=tokyonight&hide_border=true" />
 
