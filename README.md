@@ -5,30 +5,20 @@
 <h3>AI Systems • Agentic AI • Backend Engineering</h3>
 
 <p>
-  A Computer Science student building with LLMs, automation, backend systems and cloud infrastructure.
+  Building with LLMs, automation, AI workflows and scalable systems.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Agentic+AI+Builder;Backend+Systems+Developer;LLMs+%7C+Automation+%7C+Cloud;Currently+building+FBS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Agentic+AI+Builder;Exploring+LLMs+and+Automation;Learning+System+Design+and+Cloud;Currently+building+FBS)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Languages  
-<img src="https://skillicons.dev/icons?i=python,cpp,js,go" />
-
-### Frontend  
-<img src="https://skillicons.dev/icons?i=react,svelte,tailwind,html,css" />
-
-### Backend / Database  
-<img src="https://skillicons.dev/icons?i=nodejs,sqlite,mysql,docker" />
-
-### Tools  
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,go,react,svelte,tailwind,html,css,nodejs,sqlite,mysql,docker,git,github,linux,vscode,vercel" />
 
 </div>
 
@@ -40,17 +30,9 @@
 
 ### FBS — Fast Blob Storage
 
+Self-hosted S3-compatible object storage ecosystem.
+
 </div>
-
-Self-hosted S3-compatible object storage ecosystem focused on backend infrastructure.
-
-- SQLite-backed metadata layer  
-- RESTful JSON management APIs  
-- Bucket and object browsing  
-- Access key management  
-- Bearer Token authentication  
-- CORS handling for remote dashboards  
-- Monitoring and system metrics  
 
 ---
 
